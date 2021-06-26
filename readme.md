@@ -6,13 +6,19 @@ Moteur de recherche d'actions boursières sur desktop et mobile (PWA) avec affic
 
 ## To do list
 
+- [ ] Sélection des l'API et des données à récupérer
 - [x] Création du projet
+  - [x] Création de la structure HTML
+  - [x] Ajout du styles CSS
+    - [x] Sélection d'une police d'écritures
+    - [ ] Sélection des couleurs
+  - [ ] Création du fichier javascript
 - [ ] Création des icônes et images
   - [ ] Création du logo
   - [ ] Création de l'icône
   - [ ] Création de favicon
 - [ ] Ajout d'un disclamer
-- [ ] Sélection des l'API et des données à récupérer
+- [ ] Optimisation SEO
 - [ ] Création de l'application desktop
 - [ ] Création de l'application mobile
 
@@ -24,5 +30,7 @@ V3 : Notation selon critères
 
 ## Sources et inspirations
 
-Projet de départ : @justFS /pwa  
+Projet de départ : @justFS/pwa  
+Font : fonts.google.com : Open Sans  
+Couleurs : Materialui.co & uigradients.com  
 Source API :
