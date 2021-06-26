@@ -6,7 +6,7 @@ Moteur de recherche d'actions boursières sur desktop et mobile (PWA) avec affic
 
 ## To do list
 
-- [ X ] Création du projet
+- [x] Création du projet
 - [ ] Création des icônes et images
   - [ ] Création du logo
   - [ ] Création de l'icône
