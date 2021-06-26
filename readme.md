@@ -19,7 +19,8 @@ Moteur de recherche d'actions boursières sur desktop et mobile (PWA) avec affic
 ## Roadmap
 
 V1 : Moteur de recherche avec affichage des informations  
-V2 : Notation des actions en fonction de critères
+V2 : Classement selon critères  
+V3 : Notation selon critères
 
 ## Sources et inspirations
 
