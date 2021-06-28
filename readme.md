@@ -1,6 +1,6 @@
 # **🕵️‍♂️ 52 Equity Watcher 📉📈**
 
-## **📜 Présentation projet**
+## **📜 Présentation du projet**
 
 Moteur de recherche d'actions boursières sur desktop et mobile (PWA) avec affichage des informations boursières sur 52 semaines (Nom, code ISIN, place de marché, minimum, maximum, dividende, rendement).
 
@@ -27,6 +27,7 @@ Moteur de recherche d'actions boursières sur desktop et mobile (PWA) avec affic
 V1 : Moteur de recherche avec affichage des informations  
 V2 : Classement selon critères  
 V3 : Notation selon critères
+...
 
 ## 📚 Sources et inspirations
 
